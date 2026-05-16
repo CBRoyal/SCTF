@@ -133,9 +133,15 @@
     font-size: 30px;
     color: var(--fruit-font-color);
 }
-.fishing_navigation_links{
+#fishing_navigation_link{
     font-family: "Knewave", sans-serif;
     font-size: 30px;
+    color: var(--shelter-font-color);
+}
+#fishing_navigation_link:hover{
+    color: var(--fish-header-color);
+}
+#fishing_navigation_link:visited{
     color: var(--shelter-font-color);
 }
 #link1{
