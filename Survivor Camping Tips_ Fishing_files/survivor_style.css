@@ -81,3 +81,13 @@
         margin-left: 10px;
     }
 }
+@media (max-width: 500px){
+    #fishing_title{
+        margin-left: 20px;
+    }
+    #main_survivor_fishing_image{
+        margin-left: 0px;
+        width: 350px;
+        height: 350px;
+    }
+}
