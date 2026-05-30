@@ -66,3 +66,9 @@
 .copyright_link:hover, .storage_link:hover{
     color: var(--home-link-color);
 }
+@media (max-width: 800px){
+    #main_survivor_fishing_image{
+        width: 600px;
+        height: 600px;
+    }
+}
