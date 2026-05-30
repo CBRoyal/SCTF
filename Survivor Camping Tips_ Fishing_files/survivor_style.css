@@ -90,4 +90,12 @@
         width: 350px;
         height: 350px;
     }
+    #fishing_description, #fishing_gear_list, #spear_fishing_manual, #fish_trap_manual, #cast_net_manual,
+    #seine_net_manual{
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .survivor_footer{
+        width: 100%;
+    }
 }
