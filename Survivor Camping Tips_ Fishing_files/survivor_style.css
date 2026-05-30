@@ -1,19 +1,11 @@
 :root{
     --text-shadow-color: #000000;
-    --main-header-color: #a52a2a;
-    --main-title-bg-color: #800000;
-    --shelter-header-color: #32cd32;
     --home-link-color: #ff8c00;
-    --fruit-header-color: #daa520;
     --fish-header-color: #ffb6c1;
     --footer-text-shadow-color: #ff4500;
-    --shelter-text-bg-color: #ffebcd;
     --home-link-hover-color: #ffff00;
-    --fruit-font-color: #8b4513;
     --fish-font-color: #008000;
     --fish-text-bg-color: #00ced1;
-    --main-bg-color: #006400;
-    --fire-bg-color: #b22222;
     --fish-bg-color: #4169e1;
 }
 #fishing_webpage{
