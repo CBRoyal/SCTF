@@ -18,6 +18,9 @@
     text-shadow: 2px 2px var(--text-shadow-color);
     margin-left: 15px;
 }
+#main_survivor_fishing_image{
+    margin-left: 50px;
+}
 #fishing_description, #fishing_gear_list, #spear_fishing_manual, #fish_trap_manual, #cast_net_manual,
 #seine_net_manual{
     font-family: "Knewave", sans-serif;
