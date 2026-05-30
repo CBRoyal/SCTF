@@ -28,7 +28,7 @@
     color: var(--fish-font-color);
     background-color: var(--fish-text-bg-color);
     border: 40px solid var(--fish-bg-color);
-    padding: 5px;
+    padding: 10px;
 }
 #fishing_navigation_link{
     font-family: "Knewave", sans-serif;
