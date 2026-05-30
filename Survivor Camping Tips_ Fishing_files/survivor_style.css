@@ -68,6 +68,7 @@
 }
 @media (max-width: 800px){
     #main_survivor_fishing_image{
+        margin-left: 50px;
         width: 600px;
         height: 600px;
     }
