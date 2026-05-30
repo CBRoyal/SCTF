@@ -16,6 +16,7 @@
     font-size: 60px;
     color: var(--fish-header-color);
     text-shadow: 2px 2px var(--text-shadow-color);
+    margin-left: 10px;
 }
 #fishing_description, #fishing_gear_list, #spear_fishing_manual, #fish_trap_manual, #cast_net_manual,
 #seine_net_manual{
@@ -24,6 +25,7 @@
     color: var(--fish-font-color);
     background-color: var(--fish-text-bg-color);
     border: 40px solid var(--fish-bg-color);
+    padding: 5px;
 }
 #fishing_navigation_link{
     font-family: "Knewave", sans-serif;
@@ -53,6 +55,7 @@
     text-shadow: 1px 1px var(--footer-text-shadow-color);
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
+    padding: 5px;
 }
 .copyright_link, .storage_link{
     color: var(--home-link-hover-color);
